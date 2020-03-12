@@ -1,0 +1,15 @@
+repositories:
+  g3log_catkin:
+    type: git
+    url: https://gitlab.com/apl-ocean-engineering/lsd-slam/g3log_catkin.git
+    version: master
+
+  stereo_visual_odom:
+    type: git
+    url: https://github.com/apl-ocean-engineering/visual_odom.git
+    version: master
+
+  image_detection_msgs:
+    type: git
+    url:  https://github.com/apl-ocean-engineering/image_detection_msgs.git
+    version: master
